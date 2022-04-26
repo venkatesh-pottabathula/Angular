@@ -1,0 +1,20 @@
+.one {
+    color: blue;
+}
+.two {
+	font-size: 15px;
+    width: 300px;
+    height: 25px;
+    /* background-color: cyan; */
+    background-image: url('./sampleimg.jpg');
+}
+.three {
+    color: red;
+}
+.four {
+	font-size: 15px;
+    width: 300px;
+    height: 25px;
+    background-image: url('./sampleimg2.jpg'); 
+}
+
